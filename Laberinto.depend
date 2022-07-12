@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1573106171 source:c:\users\victor\documents\codeblocs\glut\laberinto\main.cpp
+	<string>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+	<windows.h>
+	<C:\Users\victor\Documents\CodeBlocs\GLUT\GLUT\include\GL\glut.h>
+
+976692172 c:\users\victor\documents\codeblocs\glut\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 c:\glut\include\gl\gl.h
+
+893401200 c:\glut\include\gl\glu.h
+	<GL/gl.h>
+
